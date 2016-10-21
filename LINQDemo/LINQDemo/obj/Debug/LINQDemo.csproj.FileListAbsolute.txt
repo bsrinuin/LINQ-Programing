@@ -1,0 +1,12 @@
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\LINQDemo\bin\Debug\LINQDemo.dll
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\LINQDemo\bin\Debug\LINQDemo.pdb
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\LINQDemo\bin\Debug\Tests.dll
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\LINQDemo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\LINQDemo\bin\Debug\LINQ.BL.dll
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\LINQDemo\bin\Debug\LINQ.Library.dll
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\LINQDemo\bin\Debug\Tests.pdb
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\LINQDemo\bin\Debug\LINQ.BL.pdb
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\LINQDemo\bin\Debug\LINQ.Library.pdb
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\LINQDemo\obj\Debug\LINQDemo.csprojResolveAssemblyReference.cache
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\LINQDemo\obj\Debug\LINQDemo.dll
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\LINQDemo\obj\Debug\LINQDemo.pdb

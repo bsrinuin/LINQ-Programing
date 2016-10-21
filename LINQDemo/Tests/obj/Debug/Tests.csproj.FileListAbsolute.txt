@@ -1,0 +1,9 @@
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\Tests\bin\Debug\Tests.dll
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\Tests\bin\Debug\Tests.pdb
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\Tests\bin\Debug\LINQ.Library.dll
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\Tests\bin\Debug\LINQ.Library.pdb
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\Tests\obj\Debug\Tests.dll
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\Tests\obj\Debug\Tests.pdb
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\Tests\bin\Debug\LINQ.BL.dll
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\Tests\bin\Debug\LINQ.BL.pdb

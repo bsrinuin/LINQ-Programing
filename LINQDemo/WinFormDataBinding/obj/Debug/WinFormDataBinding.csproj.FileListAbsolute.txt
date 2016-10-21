@@ -1,0 +1,11 @@
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\WinFormDataBinding\bin\Debug\WinFormDataBinding.exe.config
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\WinFormDataBinding\bin\Debug\WinFormDataBinding.exe
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\WinFormDataBinding\bin\Debug\WinFormDataBinding.pdb
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\WinFormDataBinding\bin\Debug\LINQ.BL.dll
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\WinFormDataBinding\bin\Debug\LINQ.BL.pdb
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\WinFormDataBinding\obj\Debug\WinFormDataBinding.csprojResolveAssemblyReference.cache
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\WinFormDataBinding\obj\Debug\WinFormDataBinding.CustomerWin.resources
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\WinFormDataBinding\obj\Debug\WinFormDataBinding.Properties.Resources.resources
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\WinFormDataBinding\obj\Debug\WinFormDataBinding.csproj.GenerateResource.Cache
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\WinFormDataBinding\obj\Debug\WinFormDataBinding.exe
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\WinFormDataBinding\obj\Debug\WinFormDataBinding.pdb

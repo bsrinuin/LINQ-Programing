@@ -1,0 +1,7 @@
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\LINQ.BL\bin\Debug\LINQ.BL.dll
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\LINQ.BL\bin\Debug\LINQ.BL.pdb
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\LINQ.BL\obj\Debug\LINQ.BL.csprojResolveAssemblyReference.cache
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\LINQ.BL\obj\Debug\LINQ.BL.dll
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\LINQ.BL\obj\Debug\LINQ.BL.pdb
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\LINQ.BL\obj\Debug\LINQ.BL.AboutBox1.resources
+C:\Users\bandarusr01\Desktop\Learning\LINQ\LINQDemo\LINQ.BL\obj\Debug\LINQ.BL.csproj.GenerateResource.Cache
